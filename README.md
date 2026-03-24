@@ -1,6 +1,6 @@
 # RDF2Graph
 
-**RDF2Graph** is a Python-based tool developed by **Wissam Ismail**. Based on the repository's file structure and naming, the project appears designed to **process RDF (Resource Description Framework) triples and convert them into graph-based representations**.
+**RDF2Graph** is a Python-based tool developed by **Wissam Ismail**. The project designed to **process RDF (Resource Description Framework) triples and convert them into graph-based representations**.
 
 ## Features
 *   **Pure Python Implementation:** The project is written entirely in **Python (100%)**.
